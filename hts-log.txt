@@ -1,0 +1,426 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 17 Feb 2023 15:54:26 at https://www.classcentral.com/ +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qir2%e0C2t%Ps2u1%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.1) Gecko/20020826" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.classcentral.com/ -O1 "C:\Users\Jack\Documents\newproject" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/maths (from https://www.classcentral.com/)
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business (from https://www.classcentral.com/)
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/humanities (from https://www.classcentral.com/)
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/engineering (from https://www.classcentral.com/)
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/science (from https://www.classcentral.com/)
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/education (from https://www.classcentral.com/)
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/social-sciences (from https://www.classcentral.com/)
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/art-and-design (from https://www.classcentral.com/)
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-science (from https://www.classcentral.com/)
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-and-software-development (from https://www.classcentral.com/)
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/personal-development (from https://www.classcentral.com/)
+15:57:21	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec (from https://www.classcentral.com/)
+15:57:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-networking (from https://www.classcentral.com/)
+15:57:47	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/machine-learning (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/devops (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/deep-learning (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cryptography (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/quantum-computing (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/hci (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/distributed-systems (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/blockchain (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/operating-systems (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/computer-graphics (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nutrition-and-wellness (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/disease-and-disorders (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/public-health (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/health-care (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nursing (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/anatomy (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/veterinary-science (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cme (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/statistics (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/foundations-of-mathematics (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/calculus (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/trigonometry (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/geometry (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/algebra (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/precalculus (from https://www.classcentral.com/)
+15:57:48	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/number-theory (from https://www.classcentral.com/)
+15:57:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/combinatorics (from https://www.classcentral.com/)
+15:57:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mathematical-logic (from https://www.classcentral.com/)
+15:57:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/management-and-leadership (from https://www.classcentral.com/)
+15:57:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/finance (from https://www.classcentral.com/)
+15:57:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/entrepreneurship (from https://www.classcentral.com/)
+15:57:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/marketing (from https://www.classcentral.com/)
+15:57:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/strategic-management (from https://www.classcentral.com/)
+15:57:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/industry-specific (from https://www.classcentral.com/)
+15:57:49	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business-intelligence (from https://www.classcentral.com/)
+15:57:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/human-resources (from https://www.classcentral.com/)
+15:57:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/project-management (from https://www.classcentral.com/)
+15:57:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sales (from https://www.classcentral.com/)
+15:57:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/design-thinking (from https://www.classcentral.com/)
+15:57:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/business-software (from https://www.classcentral.com/)
+15:57:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/risk-management (from https://www.classcentral.com/)
+15:57:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/csr (from https://www.classcentral.com/)
+15:57:50	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/customer-service (from https://www.classcentral.com/)
+15:57:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/innovation (from https://www.classcentral.com/)
+15:57:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/operations-management (from https://www.classcentral.com/)
+15:57:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/history (from https://www.classcentral.com/)
+15:57:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/literature (from https://www.classcentral.com/)
+15:57:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/language-learning (from https://www.classcentral.com/)
+15:57:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/grammar-writing (from https://www.classcentral.com/)
+15:57:51	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/philosophy (from https://www.classcentral.com/)
+15:57:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/esl (from https://www.classcentral.com/)
+15:57:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/culture (from https://www.classcentral.com/)
+15:57:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/sports (from https://www.classcentral.com/)
+15:57:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/journalism (from https://www.classcentral.com/)
+15:57:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethics (from https://www.classcentral.com/)
+15:57:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/linguistics (from https://www.classcentral.com/)
+15:57:52	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/food (from https://www.classcentral.com/)
+15:57:53	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/reading (from https://www.classcentral.com/)
+15:57:53	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/crisis-management (from https://www.classcentral.com/)
+15:57:53	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/electrical-engineering (from https://www.classcentral.com/)
+15:57:53	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mechanical-engineering (from https://www.classcentral.com/)
+15:57:53	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/civil-engineering (from https://www.classcentral.com/)
+15:57:53	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/robotics (from https://www.classcentral.com/)
+15:57:53	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/nanotechnology (from https://www.classcentral.com/)
+15:57:53	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/gis (from https://www.classcentral.com/)
+15:57:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/manufacturing (from https://www.classcentral.com/)
+15:57:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/bim (from https://www.classcentral.com/)
+15:57:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cad (from https://www.classcentral.com/)
+15:57:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/chemical-engineering (from https://www.classcentral.com/)
+15:57:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/energy-systems (from https://www.classcentral.com/)
+15:57:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/aerospace-engineering (from https://www.classcentral.com/)
+15:57:54	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/chemistry (from https://www.classcentral.com/)
+15:57:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/environmental-science (from https://www.classcentral.com/)
+15:57:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/astronomy (from https://www.classcentral.com/)
+15:57:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/biology (from https://www.classcentral.com/)
+15:57:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/agriculture (from https://www.classcentral.com/)
+15:57:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/materials-science (from https://www.classcentral.com/)
+15:57:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/earth-science (from https://www.classcentral.com/)
+15:57:55	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/applied-science (from https://www.classcentral.com/)
+15:57:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/k12 (from https://www.classcentral.com/)
+15:57:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/higher-education (from https://www.classcentral.com/)
+15:57:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/stem (from https://www.classcentral.com/)
+15:57:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/teacher-development (from https://www.classcentral.com/)
+15:57:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/course-development (from https://www.classcentral.com/)
+15:57:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/online-education (from https://www.classcentral.com/)
+15:57:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/test-prep (from https://www.classcentral.com/)
+15:57:56	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pedagogy (from https://www.classcentral.com/)
+15:57:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/economics (from https://www.classcentral.com/)
+15:57:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/psychology (from https://www.classcentral.com/)
+15:57:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/anthropology (from https://www.classcentral.com/)
+15:57:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/political-science (from https://www.classcentral.com/)
+15:57:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/law (from https://www.classcentral.com/)
+15:57:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/urban-planning (from https://www.classcentral.com/)
+15:57:57	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/human-rights (from https://www.classcentral.com/)
+15:57:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/governance (from https://www.classcentral.com/)
+15:57:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/archaeology (from https://www.classcentral.com/)
+15:57:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/social-work (from https://www.classcentral.com/)
+15:57:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/music (from https://www.classcentral.com/)
+15:57:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-media (from https://www.classcentral.com/)
+15:57:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/visual-arts (from https://www.classcentral.com/)
+15:57:58	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/design-and-creativity (from https://www.classcentral.com/)
+15:57:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/big-data (from https://www.classcentral.com/)
+15:57:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-mining (from https://www.classcentral.com/)
+15:57:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-analysis (from https://www.classcentral.com/)
+15:57:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/data-visualization (from https://www.classcentral.com/)
+15:57:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/jupyter (from https://www.classcentral.com/)
+15:57:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/mobile-development (from https://www.classcentral.com/)
+15:57:59	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/web-development (from https://www.classcentral.com/)
+15:58:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/game-development (from https://www.classcentral.com/)
+15:58:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/programming-languages (from https://www.classcentral.com/)
+15:58:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/software-development (from https://www.classcentral.com/)
+15:58:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cloud-computing (from https://www.classcentral.com/)
+15:58:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/communication-skills (from https://www.classcentral.com/)
+15:58:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/career-development (from https://www.classcentral.com/)
+15:58:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/self-improvement (from https://www.classcentral.com/)
+15:58:00	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/presentation-skills (from https://www.classcentral.com/)
+15:58:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/cybersecurity (from https://www.classcentral.com/)
+15:58:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/network-security (from https://www.classcentral.com/)
+15:58:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/ethical-hacking (from https://www.classcentral.com/)
+15:58:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/digital-forensics (from https://www.classcentral.com/)
+15:58:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/reverse-engineering (from https://www.classcentral.com/)
+15:58:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/pentesting (from https://www.classcentral.com/)
+15:58:01	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/malware-analysis (from https://www.classcentral.com/)
+15:58:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/osint (from https://www.classcentral.com/)
+15:58:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/threat-intelligence (from https://www.classcentral.com/)
+15:58:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/infosec-certifications (from https://www.classcentral.com/)
+15:58:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/red-team (from https://www.classcentral.com/)
+15:58:02	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/subject/blue-team (from https://www.classcentral.com/)
+15:58:06	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/course/edx-computing-in-python-i-fundamentals-and-procedural-programming-11469 (from https://www.classcentral.com/)
+15:58:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/course/edx-cs50-s-introduction-to-computer-science-442 (from https://www.classcentral.com/)
+15:58:07	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/help/moocs (from https://www.classcentral.com/)
+15:58:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/swayam (from https://www.classcentral.com/)
+15:58:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/linkedin-learning (from https://www.classcentral.com/)
+15:58:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/provider/skillshare (from https://www.classcentral.com/)
+15:58:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/providers (from https://www.classcentral.com/)
+15:58:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/microsoft (from https://www.classcentral.com/)
+15:58:27	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/ibm (from https://www.classcentral.com/)
+15:58:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/united-nations (from https://www.classcentral.com/)
+15:58:28	Error: 	"Too Many Requests" (429) at link https://www.classcentral.com/institution/british-council (from https://www.classcentral.com/)
+15:58:48	Warning: 	Moved Permanently for https://www.classcentral.com/report/google-free-certificates/
+15:58:48	Warning: 	File has moved from https://www.classcentral.com/report/google-free-certificates/ to https://www.classcentral.com/report/free-google-certifications/
+15:58:48	Warning: 	Moved Permanently for https://www.classcentral.com/collection/ivy-league-moocs/
+15:58:48	Warning: 	File has moved from https://www.classcentral.com/collection/ivy-league-moocs/ to https://www.classcentral.com/collection/ivy-league-moocs
+15:58:51	Error: 	"Not Found" (404) at link https://www.classcentral.com/update-item/ (from https://www.classcentral.com/)
+15:58:51	Error: 	"Not Found" (404) at link https://www.classcentral.com/delete-item/ (from https://www.classcentral.com/)
+15:58:51	Error: 	"Not Found" (404) at link https://www.classcentral.com/move-item/ (from https://www.classcentral.com/)
+15:58:51	Error: 	"Not Found" (404) at link https://www.classcentral.com/maestro/course-reviews/ (from https://www.classcentral.com/)
+15:58:51	Error: 	"Not Found" (404) at link https://www.classcentral.com/coordinator/ (from https://www.classcentral.com/)
+15:58:51	Error: 	"Not Found" (404) at link https://www.classcentral.com/s/ (from https://www.classcentral.com/)
+15:58:51	Error: 	"Not Found" (404) at link https://www.classcentral.com/enrollee-list/update-item-progress/ (from https://www.classcentral.com/)
+15:58:51	Warning: 	Link https://www.classcentral.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+15:58:52	Warning: 	HTML file (602293 bytes) retransferred due to lack of cache: https://www.classcentral.com/rankings
+15:59:05	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/rankings (from https://www.classcentral.com/)
+15:59:05	Warning: 	HTML file (199123 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/most-popular-online-courses/
+15:59:15	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/most-popular-online-courses/ (from https://www.classcentral.com/)
+15:59:15	Warning: 	HTML file (146062 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-free-online-courses-2022/
+15:59:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-free-online-courses-2022/ (from https://www.classcentral.com/)
+15:59:24	Warning: 	HTML file (510790 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/coursera-free-online-courses/
+15:59:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/coursera-free-online-courses/ (from https://www.classcentral.com/)
+15:59:36	Warning: 	HTML file (418745 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/free-certificates/
+15:59:48	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/free-certificates/ (from https://www.classcentral.com/)
+15:59:48	Warning: 	HTML file (192703 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/free-google-certifications/
+15:59:58	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/free-google-certifications/ (from https://www.classcentral.com/)
+15:59:58	Warning: 	HTML file (852466 bytes) retransferred due to lack of cache: https://www.classcentral.com/starting-this-month
+16:00:13	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/starting-this-month (from https://www.classcentral.com/)
+16:00:13	Warning: 	HTML file (144668 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/author/dhawal/
+16:00:21	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/author/dhawal/ (from https://www.classcentral.com/)
+16:00:21	Warning: 	HTML file (544458 bytes) retransferred due to lack of cache: https://www.classcentral.com/lists
+16:00:34	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/lists (from https://www.classcentral.com/)
+16:00:34	Warning: 	HTML file (763992 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/web-design
+16:00:49	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/web-design (from https://www.classcentral.com/)
+16:01:08	Warning: 	HTML file (777483 bytes) retransferred due to lack of cache: https://www.classcentral.com/collection/sustainability-online-courses
+16:01:23	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/collection/sustainability-online-courses (from https://www.classcentral.com/)
+16:01:23	Warning: 	HTML file (806073 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/mit
+16:01:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/mit (from https://www.classcentral.com/)
+16:01:38	Warning: 	HTML file (757173 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/google
+16:01:53	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/google (from https://www.classcentral.com/)
+16:01:53	Warning: 	HTML file (757098 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/amazon
+16:02:08	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/amazon (from https://www.classcentral.com/)
+16:02:08	Warning: 	HTML file (141865 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/category/best-courses/
+16:02:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/category/best-courses/ (from https://www.classcentral.com/)
+16:02:20	Error: 	"Not Found" (404) at link https://www.classcentral.com/images/illustrations/homepage-discover-01.png (from https://www.classcentral.com/)
+16:02:20	Warning: 	HTML file (740864 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/iit-kharagpur
+16:02:35	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/iit-kharagpur (from https://www.classcentral.com/)
+16:02:35	Warning: 	HTML file (757263 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/rice
+16:02:50	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/rice (from https://www.classcentral.com/)
+16:02:50	Warning: 	HTML file (739158 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/iitm
+16:03:05	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/iitm (from https://www.classcentral.com/)
+16:03:05	Warning: 	HTML file (755188 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/columbia
+16:03:21	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/columbia (from https://www.classcentral.com/)
+16:03:21	Warning: 	HTML file (736565 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/cornell
+16:03:35	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/cornell (from https://www.classcentral.com/)
+16:03:35	Warning: 	HTML file (785179 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/edinburgh
+16:03:51	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/edinburgh (from https://www.classcentral.com/)
+16:03:51	Warning: 	HTML file (743867 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/purdue
+16:04:05	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/purdue (from https://www.classcentral.com/)
+16:04:06	Warning: 	HTML file (764625 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/duke
+16:04:21	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/duke (from https://www.classcentral.com/)
+16:04:21	Warning: 	HTML file (794244 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/umich
+16:04:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/umich (from https://www.classcentral.com/)
+16:05:23	Warning: 	HTML file (837985 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/edx
+16:05:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/edx (from https://www.classcentral.com/)
+16:05:38	Warning: 	HTML file (840210 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/futurelearn
+16:05:53	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/futurelearn (from https://www.classcentral.com/)
+16:06:50	Warning: 	HTML file (7728 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/swayam
+16:07:05	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/swayam (from https://www.classcentral.com/)
+16:07:05	Warning: 	HTML file (7821 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/linkedin-learning
+16:07:19	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/linkedin-learning (from https://www.classcentral.com/)
+16:07:59	Error: 	"" (429) at link https://www.classcentral.com/provider/skillshare (from https://www.classcentral.com/)
+16:08:02	Error: 	"" (429) at link https://www.classcentral.com/providers (from https://www.classcentral.com/)
+16:08:28	Error: 	"" (429) at link https://www.classcentral.com/institution/ibm (from https://www.classcentral.com/)
+16:08:28	Warning: 	HTML file (738253 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/smithsonian
+16:08:42	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/smithsonian (from https://www.classcentral.com/)
+16:09:09	Error: 	"" (429) at link https://www.classcentral.com/institution/united-nations (from https://www.classcentral.com/)
+16:09:09	Warning: 	HTML file (7824 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/british-council
+16:09:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/british-council (from https://www.classcentral.com/)
+16:09:24	Warning: 	HTML file (2741058 bytes) retransferred due to lack of cache: https://www.classcentral.com/institutions
+16:10:07	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institutions (from https://www.classcentral.com/)
+16:10:07	Warning: 	HTML file (211983 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/harvard-cs50-guide/
+16:10:17	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/harvard-cs50-guide/ (from https://www.classcentral.com/)
+16:10:23	Warning: 	HTML file (171115 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-free-prolog-courses/
+16:10:32	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-free-prolog-courses/ (from https://www.classcentral.com/)
+16:10:32	Warning: 	HTML file (188818 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-japanese-courses/
+16:10:42	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-japanese-courses/ (from https://www.classcentral.com/)
+16:10:42	Warning: 	HTML file (162468 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-erlang-courses/
+16:10:51	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-erlang-courses/ (from https://www.classcentral.com/)
+16:10:51	Warning: 	HTML file (165491 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-css-animation-courses/
+16:11:00	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-css-animation-courses/ (from https://www.classcentral.com/)
+16:11:00	Warning: 	HTML file (179324 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/udemy-top-courses/
+16:11:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/udemy-top-courses/ (from https://www.classcentral.com/)
+16:11:10	Warning: 	HTML file (338413 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/india-online-degrees/
+16:11:22	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/india-online-degrees/ (from https://www.classcentral.com/)
+16:11:22	Warning: 	HTML file (258546 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/mooc-based-masters-degree/
+16:11:32	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/mooc-based-masters-degree/ (from https://www.classcentral.com/)
+16:11:32	Warning: 	HTML file (564241 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/list-of-mooc-based-microcredentials/
+16:11:45	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/list-of-mooc-based-microcredentials/ (from https://www.classcentral.com/)
+16:11:45	Warning: 	HTML file (736680 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/udacity
+16:12:00	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/udacity (from https://www.classcentral.com/)
+16:12:00	Warning: 	HTML file (602293 bytes) retransferred due to lack of cache: https://www.classcentral.com/rankings
+16:12:03	Warning: 	HTML file (199123 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/most-popular-online-courses/
+16:12:14	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/rankings (from https://www.classcentral.com/)
+16:12:14	Warning: 	HTML file (146062 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-free-online-courses-2022/
+16:12:14	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/most-popular-online-courses/ (from https://www.classcentral.com/)
+16:12:14	Warning: 	HTML file (510790 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/coursera-free-online-courses/
+16:12:22	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-free-online-courses-2022/ (from https://www.classcentral.com/)
+16:12:22	Warning: 	HTML file (418745 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/free-certificates/
+16:12:27	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/coursera-free-online-courses/ (from https://www.classcentral.com/)
+16:12:27	Warning: 	HTML file (192703 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/free-google-certifications/
+16:12:30	Warning: 	HTML file (852466 bytes) retransferred due to lack of cache: https://www.classcentral.com/starting-this-month
+16:12:34	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/free-certificates/ (from https://www.classcentral.com/)
+16:12:34	Warning: 	HTML file (144668 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/author/dhawal/
+16:12:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/free-google-certifications/ (from https://www.classcentral.com/)
+16:12:37	Warning: 	HTML file (544458 bytes) retransferred due to lack of cache: https://www.classcentral.com/lists
+16:12:42	Warning: 	HTML file (763992 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/web-design
+16:12:43	Warning: 	HTML file (777483 bytes) retransferred due to lack of cache: https://www.classcentral.com/collection/sustainability-online-courses
+16:12:45	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/starting-this-month (from https://www.classcentral.com/)
+16:12:45	Warning: 	HTML file (806073 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/mit
+16:12:49	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/author/dhawal/ (from https://www.classcentral.com/)
+16:12:49	Warning: 	HTML file (757173 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/google
+16:12:56	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/lists (from https://www.classcentral.com/)
+16:12:56	Warning: 	HTML file (757098 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/amazon
+16:12:58	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/subject/web-design (from https://www.classcentral.com/)
+16:12:58	Warning: 	HTML file (141865 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/category/best-courses/
+16:12:59	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/collection/sustainability-online-courses (from https://www.classcentral.com/)
+16:12:59	Warning: 	HTML file (740864 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/iit-kharagpur
+16:13:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/mit (from https://www.classcentral.com/)
+16:13:03	Warning: 	HTML file (757263 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/rice
+16:13:06	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/google (from https://www.classcentral.com/)
+16:13:06	Warning: 	HTML file (739158 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/iitm
+16:13:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/amazon (from https://www.classcentral.com/)
+16:13:10	Warning: 	HTML file (755188 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/columbia
+16:13:13	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/category/best-courses/ (from https://www.classcentral.com/)
+16:13:13	Warning: 	HTML file (736565 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/cornell
+16:13:18	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/iit-kharagpur (from https://www.classcentral.com/)
+16:13:18	Warning: 	HTML file (785179 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/edinburgh
+16:13:19	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/rice (from https://www.classcentral.com/)
+16:13:19	Warning: 	HTML file (743867 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/purdue
+16:13:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/iitm (from https://www.classcentral.com/)
+16:13:24	Warning: 	HTML file (764625 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/duke
+16:13:27	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/columbia (from https://www.classcentral.com/)
+16:13:27	Warning: 	HTML file (794244 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/umich
+16:13:32	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/cornell (from https://www.classcentral.com/)
+16:13:32	Warning: 	HTML file (837985 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/edx
+16:13:34	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/edinburgh (from https://www.classcentral.com/)
+16:13:34	Warning: 	HTML file (840210 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/futurelearn
+16:13:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/purdue (from https://www.classcentral.com/)
+16:13:38	Warning: 	HTML file (7728 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/swayam
+16:13:41	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/duke (from https://www.classcentral.com/)
+16:13:41	Warning: 	HTML file (7821 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/linkedin-learning
+16:13:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/university/umich (from https://www.classcentral.com/)
+16:13:46	Warning: 	HTML file (738253 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/smithsonian
+16:13:48	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/edx (from https://www.classcentral.com/)
+16:13:48	Warning: 	HTML file (7824 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/british-council
+16:13:52	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/futurelearn (from https://www.classcentral.com/)
+16:13:52	Warning: 	HTML file (2741058 bytes) retransferred due to lack of cache: https://www.classcentral.com/institutions
+16:13:55	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/swayam (from https://www.classcentral.com/)
+16:13:55	Warning: 	HTML file (211983 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/harvard-cs50-guide/
+16:14:00	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/linkedin-learning (from https://www.classcentral.com/)
+16:14:00	Warning: 	HTML file (171115 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-free-prolog-courses/
+16:14:02	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/smithsonian (from https://www.classcentral.com/)
+16:14:02	Warning: 	HTML file (188818 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-japanese-courses/
+16:14:05	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institution/british-council (from https://www.classcentral.com/)
+16:14:05	Warning: 	HTML file (162468 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-erlang-courses/
+16:14:09	Warning: 	HTML file (165491 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-css-animation-courses/
+16:14:11	Warning: 	HTML file (179324 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/udemy-top-courses/
+16:14:13	Warning: 	HTML file (338413 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/india-online-degrees/
+16:14:17	Warning: 	HTML file (258546 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/mooc-based-masters-degree/
+16:14:19	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/institutions (from https://www.classcentral.com/)
+16:14:19	Warning: 	HTML file (564241 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/list-of-mooc-based-microcredentials/
+16:14:20	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/harvard-cs50-guide/ (from https://www.classcentral.com/)
+16:14:20	Warning: 	HTML file (736680 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/udacity
+16:14:23	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-free-prolog-courses/ (from https://www.classcentral.com/)
+16:14:23	Warning: 	HTML file (602293 bytes) retransferred due to lack of cache: https://www.classcentral.com/rankings
+16:14:27	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-japanese-courses/ (from https://www.classcentral.com/)
+16:14:27	Warning: 	HTML file (199123 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/most-popular-online-courses/
+16:14:32	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-erlang-courses/ (from https://www.classcentral.com/)
+16:14:32	Warning: 	HTML file (146062 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-free-online-courses-2022/
+16:14:34	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/best-css-animation-courses/ (from https://www.classcentral.com/)
+16:14:34	Warning: 	HTML file (510790 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/coursera-free-online-courses/
+16:14:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/udemy-top-courses/ (from https://www.classcentral.com/)
+16:14:36	Warning: 	HTML file (418745 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/free-certificates/
+16:14:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/india-online-degrees/ (from https://www.classcentral.com/)
+16:14:36	Warning: 	HTML file (192703 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/free-google-certifications/
+16:14:39	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/mooc-based-masters-degree/ (from https://www.classcentral.com/)
+16:14:39	Warning: 	HTML file (852466 bytes) retransferred due to lack of cache: https://www.classcentral.com/starting-this-month
+16:14:46	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/report/list-of-mooc-based-microcredentials/ (from https://www.classcentral.com/)
+16:14:46	Warning: 	HTML file (144668 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/author/dhawal/
+16:14:46	Warning: 	HTML file (544458 bytes) retransferred due to lack of cache: https://www.classcentral.com/lists
+16:14:48	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.classcentral.com/provider/udacity (from https://www.classcentral.com/)
+16:14:48	Warning: 	HTML file (763992 bytes) retransferred due to lack of cache: https://www.classcentral.com/subject/web-design
+16:14:54	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/rankings (from https://www.classcentral.com/)
+16:14:54	Warning: 	HTML file (777483 bytes) retransferred due to lack of cache: https://www.classcentral.com/collection/sustainability-online-courses
+16:14:54	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/most-popular-online-courses/ (from https://www.classcentral.com/)
+16:14:54	Warning: 	HTML file (806073 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/mit
+16:14:58	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/best-free-online-courses-2022/ (from https://www.classcentral.com/)
+16:14:58	Warning: 	HTML file (757173 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/google
+16:15:02	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/coursera-free-online-courses/ (from https://www.classcentral.com/)
+16:15:02	Warning: 	HTML file (757098 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/amazon
+16:15:08	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/free-certificates/ (from https://www.classcentral.com/)
+16:15:08	Warning: 	HTML file (141865 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/category/best-courses/
+16:15:09	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/free-google-certifications/ (from https://www.classcentral.com/)
+16:15:09	Warning: 	HTML file (740864 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/iit-kharagpur
+16:15:12	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/starting-this-month (from https://www.classcentral.com/)
+16:15:12	Warning: 	HTML file (757263 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/rice
+16:15:15	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/author/dhawal/ (from https://www.classcentral.com/)
+16:15:15	Warning: 	HTML file (739158 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/iitm
+16:15:16	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/lists (from https://www.classcentral.com/)
+16:15:16	Warning: 	HTML file (755188 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/columbia
+16:15:22	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/subject/web-design (from https://www.classcentral.com/)
+16:15:22	Warning: 	HTML file (736565 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/cornell
+16:15:26	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/collection/sustainability-online-courses (from https://www.classcentral.com/)
+16:15:26	Warning: 	HTML file (785179 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/edinburgh
+16:15:29	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/university/mit (from https://www.classcentral.com/)
+16:15:29	Warning: 	HTML file (743867 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/purdue
+16:15:30	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/institution/google (from https://www.classcentral.com/)
+16:15:30	Warning: 	HTML file (764625 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/duke
+16:15:36	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/institution/amazon (from https://www.classcentral.com/)
+16:15:36	Warning: 	HTML file (794244 bytes) retransferred due to lack of cache: https://www.classcentral.com/university/umich
+16:15:40	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/category/best-courses/ (from https://www.classcentral.com/)
+16:15:40	Warning: 	HTML file (837985 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/edx
+16:15:44	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/university/iit-kharagpur (from https://www.classcentral.com/)
+16:15:44	Warning: 	HTML file (840210 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/futurelearn
+16:15:44	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/university/rice (from https://www.classcentral.com/)
+16:15:44	Warning: 	HTML file (7728 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/swayam
+16:15:50	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/university/iitm (from https://www.classcentral.com/)
+16:15:50	Warning: 	HTML file (7821 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/linkedin-learning
+16:15:54	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/university/columbia (from https://www.classcentral.com/)
+16:15:54	Warning: 	HTML file (738253 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/smithsonian
+16:15:58	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/university/cornell (from https://www.classcentral.com/)
+16:15:58	Warning: 	HTML file (7824 bytes) retransferred due to lack of cache: https://www.classcentral.com/institution/british-council
+16:15:58	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/university/edinburgh (from https://www.classcentral.com/)
+16:15:58	Warning: 	HTML file (2741058 bytes) retransferred due to lack of cache: https://www.classcentral.com/institutions
+16:16:04	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/university/purdue (from https://www.classcentral.com/)
+16:16:04	Warning: 	HTML file (211983 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/harvard-cs50-guide/
+16:16:08	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/university/duke (from https://www.classcentral.com/)
+16:16:08	Warning: 	HTML file (171115 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-free-prolog-courses/
+16:16:12	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/university/umich (from https://www.classcentral.com/)
+16:16:12	Warning: 	HTML file (188818 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-japanese-courses/
+16:16:13	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/provider/edx (from https://www.classcentral.com/)
+16:16:13	Warning: 	HTML file (162468 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-erlang-courses/
+16:16:17	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/provider/futurelearn (from https://www.classcentral.com/)
+16:16:17	Warning: 	HTML file (165491 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/best-css-animation-courses/
+16:16:21	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/provider/swayam (from https://www.classcentral.com/)
+16:16:21	Warning: 	HTML file (179324 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/udemy-top-courses/
+16:16:22	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/provider/linkedin-learning (from https://www.classcentral.com/)
+16:16:22	Warning: 	HTML file (338413 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/india-online-degrees/
+16:16:25	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/institution/smithsonian (from https://www.classcentral.com/)
+16:16:25	Warning: 	HTML file (258546 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/mooc-based-masters-degree/
+16:16:26	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/institution/british-council (from https://www.classcentral.com/)
+16:16:26	Warning: 	HTML file (564241 bytes) retransferred due to lack of cache: https://www.classcentral.com/report/list-of-mooc-based-microcredentials/
+16:16:30	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/institutions (from https://www.classcentral.com/)
+16:16:30	Warning: 	HTML file (736680 bytes) retransferred due to lack of cache: https://www.classcentral.com/provider/udacity
+16:16:32	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/harvard-cs50-guide/ (from https://www.classcentral.com/)
+16:16:32	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/best-free-prolog-courses/ (from https://www.classcentral.com/)
+16:16:32	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/best-japanese-courses/ (from https://www.classcentral.com/)
+16:16:32	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/best-erlang-courses/ (from https://www.classcentral.com/)
+16:16:32	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/best-css-animation-courses/ (from https://www.classcentral.com/)
+16:16:32	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/udemy-top-courses/ (from https://www.classcentral.com/)
+16:16:32	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/india-online-degrees/ (from https://www.classcentral.com/)
+16:16:32	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/mooc-based-masters-degree/ (from https://www.classcentral.com/)
+16:16:33	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/report/list-of-mooc-based-microcredentials/ (from https://www.classcentral.com/)
+16:16:33	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://www.classcentral.com/provider/udacity (from https://www.classcentral.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 22 minutes 7 seconds : 504 links scanned, 303 files written (63469296 bytes overall), 259 files updated [86359574 bytes received at 65078 bytes/sec], 65185918 bytes transferred using HTTP compression in 125 files, ratio 13%, 1.7 requests per connection
+(205 errors, 210 warnings, 0 messages)
